@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ali Erdem</h1>
-- 🌱 I’m currently learning Django, Numpy, Pandas, Front-End Development, Blockchain, Deep Learning, Operating Systems
+- 🌱 I’m currently learning Swift, Mobile Development Front-End Development, Blockchain, Operating Systems, Javascript
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Swift**
 
 - 📫 How to reach me **ali_kokcik@hotmail.com**
 
